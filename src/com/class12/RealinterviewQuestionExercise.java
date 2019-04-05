@@ -114,6 +114,7 @@ public class RealinterviewQuestionExercise {
 				
 				System.out.println("task 4................................................");
 				
+				
 				// 4.How to find out the part of the string from a string? What is substring? Find number of words in string?
 				
 				String str1= "How123456 to 12&**(&*(find out the part of $#%^%^^%the string from a string? What is substring? Find number of words in string?";
