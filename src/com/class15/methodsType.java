@@ -14,7 +14,7 @@ public class methodsType {
 	        
 	        methodsType samples= new methodsType();
 	        
-	        samples.example6('A');
+	        samples.example6('A'); // it s working because java compiler recognize ASM special character and number code table;
 	        
 	    }
 
